@@ -1,0 +1,25 @@
+OUTPUT:
+
+Inserting elements...
+
+Searching elements:
+Search key 10: 100
+Search key 22: 200
+Search key 31: 300
+Search key 4: 400
+
+Deleting key 4...
+Search key 4 after deletion: None
+
+Inserting more elements to trigger resizing...
+
+Current table size after resizing: 16
+
+Searching newly inserted elements:
+Search key 50: 500
+Search key 51: 510
+Search key 52: 520
+Search key 53: 530
+Search key 54: 540
+
+Search key 99 (not inserted): None
